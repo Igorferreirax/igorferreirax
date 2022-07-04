@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Igor Ferreira 👋
 
-- 🎯 Buscando a melhora para atuar em Front-End
+- 🎯 Buscando melhora para atuar em Front-End
 - 🌱 Estudando JavaScript
 - 😄 Pronouns: ele/dele
 
